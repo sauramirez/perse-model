@@ -1,0 +1,15 @@
+{
+  "name": "perse-model",
+  "version": "0.0.1",
+  "description": "Browser REST models",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Essau Ramirez",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "joi-browser": "^13.4.0"
+  }
+}

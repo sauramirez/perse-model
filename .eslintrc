@@ -1,0 +1,16 @@
+{
+  "extends": "hapi",
+  "env": {
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 8 // or 2017
+  },
+  "rules": {
+    "indent": [
+      2,
+      2,
+      { "MemberExpression": 0 }
+    ]
+  }
+}
