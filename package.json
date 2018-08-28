@@ -1,7 +1,7 @@
 {
   "name": "perse-model",
   "description": "Browser REST models",
-  "version": "0.0.1",
+  "version": "0.0.2-alpha",
   "repository": {
     "type": "git",
     "url": "git://github.com/sauramirez/perse-model"
@@ -14,6 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
-    "joi-browser": "^13.4.0"
+    "joi-browser": "^13.4.0",
+    "qs": "^6.5.2"
   }
 }
