@@ -1,5 +1,6 @@
 # Changelog
 
+- Accept axios options
 - Added paginated collection class
 - Added collection class
 
