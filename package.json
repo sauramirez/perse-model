@@ -1,7 +1,7 @@
 {
   "name": "perse-model",
   "description": "Browser REST models",
-  "version": "0.0.2-alpha",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/sauramirez/perse-model"
